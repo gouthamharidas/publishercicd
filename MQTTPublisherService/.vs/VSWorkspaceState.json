@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MQTTPublisherLogic",
+    "\\MQTTPublisherService",
+    "\\MQTTPublisherService\\bin",
+    "\\MQTTPublisherService\\bin\\Debug",
+    "\\MQTTPublisherService\\bin\\Debug\\net6.0",
+    "\\MQTTPublisherService\\bin\\Release",
+    "\\MQTTPublisherService\\Controllers"
+  ],
+  "SelectedNode": "\\MQTTPublisherService\\bin\\Debug\\net6.0\\MQTTPublisherService.dll",
+  "PreviewInSolutionExplorer": false
+}
