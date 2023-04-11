@@ -5,5 +5,5 @@ RUN dotnet dev-certs https
 EXPOSE 8080
 EXPOSE 7181
 EXPOSE 5181
-Expose 202
+Expose 20222
 ENTRYPOINT [ "dotnet","run"]
