@@ -1,0 +1,31 @@
+- name: Deploy container
+  hosts: your_ec2_instance
+  gather_facts: no
+  become: yes
+
+  vars_files:
+    - vars.yml
+
+  tasks:
+    - name: Get container ID
+      shell: docker ps -qf "ancestor={{ image_name }}"
+      register: container_id
+      ignore_errors: yes
+
+    - name: Stop and remove old container
+      docker_container:
+        name: "{{ container_name }}"
+        state: absent
+      when: container_id.stdout_lines|length > 0
+
+    - name: Pull updated image
+      docker_image:
+        name: "{{ image_name }}"
+        source: pull
+
+    - name: Start new container
+      docker_container:
+        name: "{{ container_name }}"
+        image: "{{ image_name }}"
+        ports: "{{ port_mappings }}"
+        state: started
