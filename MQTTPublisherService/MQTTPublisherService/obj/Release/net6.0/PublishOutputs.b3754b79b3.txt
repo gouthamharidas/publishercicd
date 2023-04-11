@@ -1,0 +1,14 @@
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\MQTTPublisherService.exe
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\MQTTPublisherService.dll
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\MQTTPublisherService.deps.json
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\MQTTPublisherService.runtimeconfig.json
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\MQTTPublisherService.pdb
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\RabbitMQ.Client.dll
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\MQTTPublisherLogic.dll
+D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\PubTmp\Out\MQTTPublisherLogic.pdb
