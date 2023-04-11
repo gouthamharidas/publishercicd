@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bou4eeLzQijGuGs0T7hhGfFuzk4fuEgNTGN2RbZy76Q=",
+  "Source": "MQTTPublisherService",
+  "BasePath": "_content/MQTTPublisherService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
