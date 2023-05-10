@@ -4,6 +4,6 @@ WORKDIR /MQTTPublisherService
 RUN dotnet dev-certs https
 EXPOSE 8080
 EXPOSE 7181
-EXPOSE 5181 
+EXPOSE 5181  
 Expose 2024                 
 ENTRYPOINT [ "dotnet","run"]
