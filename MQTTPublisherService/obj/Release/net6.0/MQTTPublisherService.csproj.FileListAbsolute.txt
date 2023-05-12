@@ -58,3 +58,38 @@ D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherServic
 D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\MQTTPublisherService.pdb
 D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\MQTTPublisherService.genruntimeconfig.cache
 D:\Yamini\RABBITMQ\MQTTPublisherService\MQTTPublisherService\MQTTPublisherService\obj\Release\net6.0\ref\MQTTPublisherService.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\appsettings.Development.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\appsettings.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\MQTtPublisherService.exe
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\MQTtPublisherService.deps.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\MQTtPublisherService.runtimeconfig.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\MQTtPublisherService.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\MQTtPublisherService.pdb
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\RabbitMQ.Client.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\MQTTPublisherLogic.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\bin\Release\net6.0\MQTTPublisherLogic.pdb
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.csproj.AssemblyReference.cache
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.AssemblyInfoInputs.cache
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.AssemblyInfo.cs
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.csproj.CoreCompileInputs.cache
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\staticwebassets\msbuild.MQTtPublisherService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\staticwebassets\msbuild.build.MQTtPublisherService.props
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.MQTtPublisherService.props
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.MQTtPublisherService.props
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\scopedcss\bundle\MQTtPublisherService.styles.css
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.csproj.CopyComplete
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\refint\MQTtPublisherService.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.pdb
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\MQTtPublisherService.genruntimeconfig.cache
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Release\net6.0\ref\MQTtPublisherService.dll

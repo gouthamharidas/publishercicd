@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ztUTz+6NSJ2MXIU+ea0k/vNfgj1fx/eGtkmujqw0YMzxys7hMgrjEKUIQ2ZJAxVTUYnaTTb5uyRqw9kJbp1JMg==",
+  "dgSpecHash": "9mLTSJvp/NMJe2lpLGT1thAesq3kTCLADTNFHcqULERy9M5sMWEkHst9/6kAwEOY2fM8N9Bib0YlfGCsV1NGtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherService\\MQTTPublisherService.csproj",
+  "projectFilePath": "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherService\\MQTtPublisherService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\goutham.h\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\goutham.h\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherService\\MQTTPublisherService.csproj": {}
+    "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherService\\MQTtPublisherService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj": {
+    "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj",
+        "projectUniqueName": "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj",
         "projectName": "MQTTPublisherLogic",
-        "projectPath": "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj",
+        "projectPath": "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj",
         "packagesPath": "C:\\Users\\goutham.h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherLogic\\obj\\",
+        "outputPath": "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\goutham.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherService\\MQTTPublisherService.csproj": {
+    "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherService\\MQTtPublisherService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherService\\MQTTPublisherService.csproj",
-        "projectName": "MQTTPublisherService",
-        "projectPath": "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherService\\MQTTPublisherService.csproj",
+        "projectUniqueName": "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherService\\MQTtPublisherService.csproj",
+        "projectName": "MQTtPublisherService",
+        "projectPath": "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherService\\MQTtPublisherService.csproj",
         "packagesPath": "C:\\Users\\goutham.h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherService\\obj\\",
+        "outputPath": "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\goutham.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,8 +103,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj": {
-                "projectPath": "C:\\Users\\goutham.h\\Desktop\\aws-deploy\\MQTTPublisherService\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj"
+              "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj": {
+                "projectPath": "C:\\Users\\goutham.h\\Desktop\\cicd demo\\publishercicd\\MQTTPublisherLogic\\MQTTPublisherLogic.csproj"
               }
             }
           }

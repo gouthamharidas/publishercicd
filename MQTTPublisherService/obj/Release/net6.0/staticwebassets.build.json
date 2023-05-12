@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "LmKy6j9QFA9zTWYJ7eK/Y0Uk9/RT1h76Z5IFM3ND7UU=",
-  "Source": "MQTTPublisherService",
-  "BasePath": "_content/MQTTPublisherService",
+  "Hash": "oTrt/BOJo0twfO7PzNpiLYlYd2d3nFqmTisvbwuBfaw=",
+  "Source": "MQTtPublisherService",
+  "BasePath": "_content/MQTtPublisherService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

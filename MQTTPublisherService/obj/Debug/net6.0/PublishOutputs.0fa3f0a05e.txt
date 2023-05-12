@@ -1,0 +1,14 @@
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\MQTTPublisherService.exe
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\MQTTPublisherService.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\MQTTPublisherService.deps.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\MQTTPublisherService.runtimeconfig.json
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\MQTTPublisherService.pdb
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\RabbitMQ.Client.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\MQTTPublisherLogic.dll
+C:\Users\goutham.h\Desktop\cicd demo\publishercicd\MQTTPublisherService\obj\Debug\net6.0\PubTmp\Out\MQTTPublisherLogic.pdb
